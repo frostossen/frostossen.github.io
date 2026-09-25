@@ -177,7 +177,7 @@
                     <li><strong>Casa:</strong> Ravenclaw</li>
                     <li><strong>Rasgos:</strong> Empollón, Atleta, Precoz, Adinerado, Valeroso, Fría Lógica</li>
                     <li><strong>Puntos de Rasgos:</strong> 17 / 17</li>
-                    <li><strong>Boggart:</strong> Arpía</li>
+                    <li><strong>Boggart:</strong> Arpí</li>
                     <li><strong>Patronus:</strong> Caballito de Mar Volador</li>
                     <li><strong>Dinero:</strong> 18 Galeones</li>
                     <li><strong>Empleo:</strong> Aprendiz de Sanador</li>
