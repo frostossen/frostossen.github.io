@@ -196,7 +196,7 @@
             <div class="onenight-iconito" style="background-image:url(https://tumblr.com)"></div>
             <div class="onenight-textito">
                 <a href="#" class="onenight-nombree">Personaje uno</a>
-                Aquí va el texto del primer participante del rol. El diseño se adaptará de forma automática sin importar la extensión del contenido que pongas dentro de este bloque flotante.
+                No tengo ni idea.
             </div>
             <div class="clear"></div>
         </div>
